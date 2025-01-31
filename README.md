@@ -2,6 +2,7 @@
 
 ## Docker Commands
 
-To get the running containers
-  docker ps
+  To get the running containers
+  
+    docker ps
 
